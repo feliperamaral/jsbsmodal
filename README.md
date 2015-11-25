@@ -8,11 +8,23 @@ Básico:
 
 ```js
 $.jsBsModal({
-    contents: {
-      'modal-body': 'Olá mundo'
-    }
+	contents: {
+	    'modal-body': 'Olá mundo'
+	}
 })
 ```
+
+## Instalação
+Via [npm](http://npmjs.org):
+```shell
+npm install js-bs-modal --save
+```
+
+Ou Download:
+
+https://github.com/feliperamaral/jsbsmodal/archive/master.zip
+
+
 ## Opções
 ```js
 {
