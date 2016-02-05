@@ -106,5 +106,5 @@
 
         return jsBsModalInit(options);
     };
-
+    $[pluginName].htmls = htmls;
 }(jQuery));
