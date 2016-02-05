@@ -1,6 +1,6 @@
 {
   "name": "js-bs-modal",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Twitter Bootstrap Modal JS Only",
   "main": "jquery.jsbsmodal.js",
   "scripts": {
